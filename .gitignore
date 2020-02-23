@@ -1,0 +1,4 @@
+*.pickled
+*.csv
+*.sqlite
+paths.py
